@@ -22,7 +22,8 @@
 - 楽天グループのサービスとの連携が充実しており、利便性が高い。
 
 ### 各サービスの特徴
-
+![2023-08-26 221819](https://github.com/Sprite7up23/pub/assets/143250081/3f1299be-cc9c-4b1f-801e-9b6cb37fc793)
+[[8](https://step-learn.com/article/markdown/md-image.html)]
 
 ## コード決済の強み
 日本のコード決済サービスの強みは、以下の点にある。
